@@ -20,7 +20,6 @@ public class CountriesProcessor extends AbstractProcessor {
 
     public CountriesProcessor(Context context) {
         mContext = context;
-        mContext.getContentResolver();
     }
 
     public boolean loadCountries() {

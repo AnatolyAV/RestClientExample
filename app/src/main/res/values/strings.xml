@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rest клиент (API ВК)</string>
+    <string name="country">Страна</string>
+    <string name="city">Город</string>
+    <string name="loading">Загрузка...</string>
+    <string name="load_countries">Загрузить страны</string>
+    <string name="load_cities">Загрузить города</string>
+    <string name="loaded">Данные загружены!</string>
+    <string name="not_loaded">Данные не удалось загрузить!</string>
+</resources>
